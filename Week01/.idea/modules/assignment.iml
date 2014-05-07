@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module classpath="eclipse" classpath-dir="$MODULE_DIR$/../.." external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="scala" name="Scala">
+      <configuration>
+        <option name="compilerLibraryLevel" value="Project" />
+        <option name="compilerLibraryName" value="SBT:: scala-compiler-bundle:2.10.2" />
+        <option name="compilerOptions" value="-feature" />
+        <option name="deprecationWarnings" value="true" />
+      </configuration>
+    </facet>
+  </component>
+</module>
+
