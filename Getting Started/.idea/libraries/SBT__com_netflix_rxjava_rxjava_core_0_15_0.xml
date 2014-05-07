@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="SBT: com.netflix.rxjava:rxjava-core:0.15.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0-javadoc.jar&#10;      " />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0-sources.jar&#10;      " />
+    </SOURCES>
+  </library>
+</component>

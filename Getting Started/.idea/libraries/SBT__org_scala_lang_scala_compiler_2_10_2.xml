@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="SBT: org.scala-lang:scala-compiler:2.10.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sbt/boot/scala-2.10.2/lib/scala-compiler.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scala-lang/scala-compiler/scala-compiler-2.10.2-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scala-lang/scala-compiler/scala-compiler-2.10.2-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scala-lang/scala-compiler/scala-compiler-2.10.2-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scala-lang/scala-compiler/scala-compiler-2.10.2-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scala-lang/scala-compiler/scala-compiler-2.10.2-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scala-lang/scala-compiler/scala-compiler-2.10.2-javadoc.jar&#10;      " />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scala-lang/scala-compiler/scala-compiler-2.10.2-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scala-lang/scala-compiler/scala-compiler-2.10.2-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scala-lang/scala-compiler/scala-compiler-2.10.2-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scala-lang/scala-compiler/scala-compiler-2.10.2-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scala-lang/scala-compiler/scala-compiler-2.10.2-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scala-lang/scala-compiler/scala-compiler-2.10.2-sources.jar&#10;      " />
+    </SOURCES>
+  </library>
+</component>

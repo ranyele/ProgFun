@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="SBT: org.scala-lang:scala-reflect:2.10.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scala-lang/scala-reflect/scala-reflect-2.10.3-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scala-lang/scala-reflect/scala-reflect-2.10.3-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scala-lang/scala-reflect/scala-reflect-2.10.3-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scala-lang/scala-reflect/scala-reflect-2.10.3-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scala-lang/scala-reflect/scala-reflect-2.10.3-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scala-lang/scala-reflect/scala-reflect-2.10.3-javadoc.jar&#10;      " />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scala-lang/scala-reflect/scala-reflect-2.10.3-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scala-lang/scala-reflect/scala-reflect-2.10.3-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scala-lang/scala-reflect/scala-reflect-2.10.3-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scala-lang/scala-reflect/scala-reflect-2.10.3-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scala-lang/scala-reflect/scala-reflect-2.10.3-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scala-lang/scala-reflect/scala-reflect-2.10.3-sources.jar&#10;      " />
+    </SOURCES>
+  </library>
+</component>

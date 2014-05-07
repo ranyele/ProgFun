@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="SBT: org.scalacheck:scalacheck_2.10:1.10.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-javadoc.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/docs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-javadoc.jar&#10;      " />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-sources.jar&#10;      " />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/&#10;        /Volumes/Secondary HD/Programming/Functional Programming - Scala/Getting Started/Exercicio 01/lib_managed/srcs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-sources.jar&#10;      " />
+    </SOURCES>
+  </library>
+</component>
